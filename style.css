@@ -1,0 +1,43 @@
+body {
+         background-image: url("Bg01.jpg");
+      }
+      
+      img{
+          margin-left: 350px;
+          border-radius: 10px;
+          border: 2px solid #ddd;
+          padding: 5px;
+      }
+      h1{
+          margin-left: 150px ;
+          color: #BF00FF;
+      }
+      h1{
+         /* color | offset-x | offset-y | blur-radius */
+         text-shadow: #173459 1px 0 10px; 
+      }
+      #F1{
+          float: left;
+          margin: 5px;
+          padding: 5px;
+      }
+      #I1{
+          float: right; margin: 5px;
+          padding: 5px;
+      }
+      
+      #T1{
+          float:left;
+          margin: 5px;
+          padding: 5px;
+      }
+      #Y1{
+          float:right; 
+          margin: 5px;
+          padding: 5px;
+      }
+      h2{
+          border: 5px solid yellow; 
+          margin: 5px; 
+          padding: 5px;
+      }
